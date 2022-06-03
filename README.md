@@ -1,6 +1,6 @@
 ## Hello, :wave:
 
-- I am a software developer that is interested in developing fullstack web apps and building cool web apps.
+- I am a software developer who is interested in developing Fullstack Web Apps.
 
 - Pronouns: he/him
 
