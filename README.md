@@ -1,6 +1,6 @@
 ## Hello, :wave:
 
-- I am a software developer who is interested in working on Distributed Systems, Databases and also developing fullstack web apps.
+- I am a software developer who is interested in working on Distributed Systems, Databases and also developing Web apps.
 
 - Pronouns: he/him
 
